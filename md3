@@ -698,8 +698,11 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb103ad07a6a03f96a377cfbeaa13002.webp" group-title="REPUBLICA DOMINICANA", GRACIA TV
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="ECUADOR" , RADIO MXITV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/Radio_Max-logo-B529151C37-seeklogo.com.png" group-title="ECUADOR" , RADIO MXITV
 http://stream.zeno.fm/64nxbrzhsuhvv
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="PERU" , FUEGO TV
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
 #EXTINF:-1  group-title="CHILE" , INT Hispantv
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
