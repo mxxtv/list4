@@ -9,7 +9,7 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://stream-pull-a.yololiv.com/yololiv/1144278368544358401_yo720p30f.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(fTPJyOzvkhGidvoj7V7jz9qeErxrgLYwdF8fPLtSYLM-TC4d5CJkyYCZRz4ftf9v8vPFHUXAsaDXbgU2BZTM74wA1GteMrApj8GvIxlfVJg)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(icTXy113cj-1SlscLf9bUeggYFhU0GLaMvj66lNThflU6FiByauplUJPaeR-ewPdIVRh8BnDK2xbCpR5qtQYs-u2JdTJMu6zHNPJY3y910M)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -38,7 +38,7 @@ https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-13 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="CINE Y SERIES", Sony Cine | SD
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-14 tvg-logo="https://i.imgur.com/j5Vvxd5.png"group-title="ECUADOR",OROMAR TV
+#EXTINF:-14 tvg-logo="https://i.imgur.com/j5Vvxd5.png"group-title="ECUADOR",OROMAR TV ec
 https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-15 tvg-logo="https://is.gd/K2PLxu" group-title="CINE Y SERIES", Rakuten Drama | SD
@@ -7854,7 +7854,7 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
-
+ 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
